@@ -37,7 +37,7 @@ fun HistoryScreen(
 
         ) {
 
-            Text("History Screen")
+            Text("History Screen Jalou pa")
 
         }
 
